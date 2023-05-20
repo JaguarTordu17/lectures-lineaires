@@ -32,7 +32,7 @@ body {
 .ll {
     width: 90%;
     height: 15%;
-    background-color: rgba(243, 142, 60, 0.5);
+    background-color: rgba(252, 178, 178, 0.5);
     border-radius: 50px;
     display: flex;
     flex-direction: column;
@@ -40,4 +40,5 @@ body {
     align-items: center;
     text-align: center;
     padding: 1%;
+    cursor: pointer;
 }

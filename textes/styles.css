@@ -27,9 +27,15 @@ section {
     margin: 15px;
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 500px) {
     section {
         font-size: 0.8em;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    section {
+        font-size: 0.7em;
     }
 }
 

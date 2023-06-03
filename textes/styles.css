@@ -23,12 +23,15 @@ section {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    text-align: center;
     margin: 15px;
 }
 
 .dev {
     white-space: nowrap;
+}
+
+.ccl {
+    text-align: center;
 }
 
 @media screen and (max-width: 500px) {
